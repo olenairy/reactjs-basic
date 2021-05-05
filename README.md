@@ -1,5 +1,5 @@
 ### Generate from tmplt
 
 ```
-npx create-react-app olenairy-portfolio --template typescript
+npx create-react-app reactappname --template typescript
 ```
